@@ -1,3 +1,12 @@
+## Student name: Qian Hu
+## Instructor: Emmanuel Jucaban
+## Description: For this homework, our main point is to make our code clean and efficient. Using the right refernces and properties.
+
+## Screenshot of finished project
+![hw-01-screenshot.1](hw-01-screenshot.1.png)
+![hw-01-screenshot.2](hw-01-screenshot.2.png)
+
+
 # 01 HTML CSS Git: Code Refactor
 
 One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
