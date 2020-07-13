@@ -3,8 +3,8 @@
 ## Description: For this homework, our main point is to make our code clean and efficient. Using the right refernces and properties.
 
 ## Screenshot of finished project
-![hw-01-screenshot.1](hw-01-screenshot.1.png)
-![hw-01-screenshot.2](hw-01-screenshot.2.png)
+![hw-01-screenshot.1](assets/images/hw-01-screenshot.1.png)
+![hw-01-screenshot.2](assets/images/hw-01-screenshot.2.png)
 
 
 # 01 HTML CSS Git: Code Refactor
